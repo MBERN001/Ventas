@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\Proyectos de C#\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\Usuario\Desktop\Proyectos de C#\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\Usuario\Desktop\Proyectos de C#\HolaMundo\HolaMundo\obj\x86\Debug\HolaMundo.Form1.resources
+C:\Users\Usuario\Desktop\Proyectos de C#\HolaMundo\HolaMundo\obj\x86\Debug\HolaMundo.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Proyectos de C#\HolaMundo\HolaMundo\obj\x86\Debug\HolaMundo.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Proyectos de C#\HolaMundo\HolaMundo\obj\x86\Debug\HolaMundo.exe
+C:\Users\Usuario\Desktop\Proyectos de C#\HolaMundo\HolaMundo\obj\x86\Debug\HolaMundo.pdb
