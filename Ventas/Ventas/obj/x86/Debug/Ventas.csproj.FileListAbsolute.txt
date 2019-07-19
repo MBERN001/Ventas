@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\Proyectos de C#\Ventas\Ventas\bin\Debug\Ventas.exe
+C:\Users\Usuario\Desktop\Proyectos de C#\Ventas\Ventas\bin\Debug\Ventas.pdb
+C:\Users\Usuario\Desktop\Proyectos de C#\Ventas\Ventas\obj\x86\Debug\Ventas.Form1.resources
+C:\Users\Usuario\Desktop\Proyectos de C#\Ventas\Ventas\obj\x86\Debug\Ventas.Form2.resources
+C:\Users\Usuario\Desktop\Proyectos de C#\Ventas\Ventas\obj\x86\Debug\Ventas.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Proyectos de C#\Ventas\Ventas\obj\x86\Debug\Ventas.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Proyectos de C#\Ventas\Ventas\obj\x86\Debug\Ventas.exe
+C:\Users\Usuario\Desktop\Proyectos de C#\Ventas\Ventas\obj\x86\Debug\Ventas.pdb
