@@ -6,3 +6,4 @@ C:\Users\Usuario\Desktop\Proyectos de C#\Ventas\Ventas\obj\x86\Debug\Ventas.Prop
 C:\Users\Usuario\Desktop\Proyectos de C#\Ventas\Ventas\obj\x86\Debug\Ventas.csproj.GenerateResource.Cache
 C:\Users\Usuario\Desktop\Proyectos de C#\Ventas\Ventas\obj\x86\Debug\Ventas.exe
 C:\Users\Usuario\Desktop\Proyectos de C#\Ventas\Ventas\obj\x86\Debug\Ventas.pdb
+C:\Users\Usuario\Desktop\Proyectos de C#\Ventas\Ventas\obj\x86\Debug\Ventas.csprojResolveAssemblyReference.cache
