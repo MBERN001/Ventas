@@ -10,8 +10,17 @@ namespace Ventas.Modelos
         public int Id { get; set; }
         public string Telefono { get; set; }
         public string Nombre { get; set; }
-        public string Descripcion { get; set; }
-        public string ciudad { get; set; }
+        public string Ciudad { get; set; }
         public string Direccion  { get; set; }
+
+        public Cliente(int id, string nombre, Categoria categoria, string telefono, string ciudad)
+        {
+            Id = id;
+            Nombre = nombre;
+            Telefono = telefono;
+            Ciudad = ciudad;
+       
+          
+        }
     }
 }

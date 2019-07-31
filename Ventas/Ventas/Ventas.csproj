@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BL\CategoriasBL.cs" />
+    <Compile Include="BL\ClientesBL.cs" />
     <Compile Include="Modelos\Categoria.cs" />
     <Compile Include="Modelos\Ciudad.cs" />
     <Compile Include="Modelos\Cliente.cs" />
@@ -86,7 +87,9 @@
     <None Include="Properties\DataSources\Form2.datasource" />
     <None Include="Properties\DataSources\Program.datasource" />
     <None Include="Properties\DataSources\Ventas.BL.CategoriasBL.datasource" />
+    <None Include="Properties\DataSources\Ventas.BL.ClientesBL.datasource" />
     <None Include="Properties\DataSources\Ventas.BL.ProductosBL.datasource" />
+    <None Include="Properties\DataSources\Ventas.Modelos.Cliente.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
