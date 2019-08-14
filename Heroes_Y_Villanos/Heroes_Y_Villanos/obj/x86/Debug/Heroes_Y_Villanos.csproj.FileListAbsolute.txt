@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Proyectos de C#\Heroes_Y_Villanos\Heroes_Y_Villanos\bin\Debug\Heroes_Y_Villanos.exe
+C:\Users\Usuario\Desktop\Proyectos de C#\Heroes_Y_Villanos\Heroes_Y_Villanos\bin\Debug\Heroes_Y_Villanos.pdb
+C:\Users\Usuario\Desktop\Proyectos de C#\Heroes_Y_Villanos\Heroes_Y_Villanos\obj\x86\Debug\Heroes_Y_Villanos.Form1.resources
+C:\Users\Usuario\Desktop\Proyectos de C#\Heroes_Y_Villanos\Heroes_Y_Villanos\obj\x86\Debug\Heroes_Y_Villanos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Proyectos de C#\Heroes_Y_Villanos\Heroes_Y_Villanos\obj\x86\Debug\Heroes_Y_Villanos.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Proyectos de C#\Heroes_Y_Villanos\Heroes_Y_Villanos\obj\x86\Debug\Heroes_Y_Villanos.exe
+C:\Users\Usuario\Desktop\Proyectos de C#\Heroes_Y_Villanos\Heroes_Y_Villanos\obj\x86\Debug\Heroes_Y_Villanos.pdb
+C:\Users\Usuario\Desktop\Proyectos de C#\Heroes_Y_Villanos\Heroes_Y_Villanos\obj\x86\Debug\Heroes_Y_Villanos.csprojResolveAssemblyReference.cache
+E:\Heroes_Y_Villanos\Heroes_Y_Villanos\obj\x86\Debug\Heroes_Y_Villanos.exe
+E:\Heroes_Y_Villanos\Heroes_Y_Villanos\obj\x86\Debug\Heroes_Y_Villanos.pdb
+E:\Heroes_Y_Villanos\Heroes_Y_Villanos\bin\Debug\Heroes_Y_Villanos.exe
+E:\Heroes_Y_Villanos\Heroes_Y_Villanos\bin\Debug\Heroes_Y_Villanos.pdb
+E:\Heroes_Y_Villanos\Heroes_Y_Villanos\obj\x86\Debug\Heroes_Y_Villanos.csprojResolveAssemblyReference.cache
+E:\Heroes_Y_Villanos\Heroes_Y_Villanos\obj\x86\Debug\Heroes_Y_Villanos.Form1.resources
+E:\Heroes_Y_Villanos\Heroes_Y_Villanos\obj\x86\Debug\Heroes_Y_Villanos.Properties.Resources.resources
+E:\Heroes_Y_Villanos\Heroes_Y_Villanos\obj\x86\Debug\Heroes_Y_Villanos.csproj.GenerateResource.Cache
