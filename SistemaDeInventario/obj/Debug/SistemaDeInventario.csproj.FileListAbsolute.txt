@@ -1,0 +1,25 @@
+C:\Users\Sinia Perdomo\Desktop\L2 proyectos\proyectos L2\SistemaDeInventario\SistemaDeInventario\bin\Debug\SistemaDeInventario.exe.config
+C:\Users\Sinia Perdomo\Desktop\L2 proyectos\proyectos L2\SistemaDeInventario\SistemaDeInventario\bin\Debug\SistemaDeInventario.exe
+C:\Users\Sinia Perdomo\Desktop\L2 proyectos\proyectos L2\SistemaDeInventario\SistemaDeInventario\bin\Debug\SistemaDeInventario.pdb
+C:\Users\Sinia Perdomo\Desktop\L2 proyectos\proyectos L2\SistemaDeInventario\SistemaDeInventario\obj\Debug\SistemaDeInventario.csprojResolveAssemblyReference.cache
+C:\Users\Sinia Perdomo\Desktop\L2 proyectos\proyectos L2\SistemaDeInventario\SistemaDeInventario\obj\Debug\SistemaDeInventario.Form1.resources
+C:\Users\Sinia Perdomo\Desktop\L2 proyectos\proyectos L2\SistemaDeInventario\SistemaDeInventario\obj\Debug\SistemaDeInventario.Properties.Resources.resources
+C:\Users\Sinia Perdomo\Desktop\L2 proyectos\proyectos L2\SistemaDeInventario\SistemaDeInventario\obj\Debug\SistemaDeInventario.csproj.GenerateResource.Cache
+C:\Users\Sinia Perdomo\Desktop\L2 proyectos\proyectos L2\SistemaDeInventario\SistemaDeInventario\obj\Debug\SistemaDeInventario.exe
+C:\Users\Sinia Perdomo\Desktop\L2 proyectos\proyectos L2\SistemaDeInventario\SistemaDeInventario\obj\Debug\SistemaDeInventario.pdb
+C:\Users\Sinia Perdomo\Desktop\L2 proyectos\proyectos L2\SistemaDeInventario\SistemaDeInventario\obj\Debug\SistemaDeInventario.Form2.resources
+C:\Users\Sinia Perdomo\Desktop\L2 proyectos\proyectos L2\SistemaDeInventario\SistemaDeInventario\obj\Debug\SistemaDeInventario.Menu.resources
+C:\Users\User\Desktop\SistemaDeInventario\SistemaDeInventario\bin\Debug\SistemaDeInventario.exe.config
+C:\Users\User\Desktop\SistemaDeInventario\SistemaDeInventario\obj\Debug\SistemaDeInventario.exe
+C:\Users\User\Desktop\SistemaDeInventario\SistemaDeInventario\obj\Debug\SistemaDeInventario.pdb
+C:\Users\User\Desktop\SistemaDeInventario\SistemaDeInventario\bin\Debug\SistemaDeInventario.exe
+C:\Users\User\Desktop\SistemaDeInventario\SistemaDeInventario\bin\Debug\SistemaDeInventario.pdb
+C:\Users\User\Desktop\SistemaDeInventario\SistemaDeInventario\obj\Debug\SistemaDeInventario.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SistemaDeInventario\SistemaDeInventario\obj\Debug\SistemaDeInventario.Form1.resources
+C:\Users\User\Desktop\SistemaDeInventario\SistemaDeInventario\obj\Debug\SistemaDeInventario.Form2.resources
+C:\Users\User\Desktop\SistemaDeInventario\SistemaDeInventario\obj\Debug\SistemaDeInventario.Menu.resources
+C:\Users\User\Desktop\SistemaDeInventario\SistemaDeInventario\obj\Debug\SistemaDeInventario.Properties.Resources.resources
+C:\Users\User\Desktop\SistemaDeInventario\SistemaDeInventario\obj\Debug\SistemaDeInventario.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SistemaDeInventario\SistemaDeInventario\obj\Debug\SistemaDeInventario.Form3.resources
+C:\Users\User\Desktop\SistemaDeInventario\SistemaDeInventario\obj\Debug\SistemaDeInventario.Form4.resources
+C:\Users\User\Desktop\SistemaDeInventario\SistemaDeInventario\obj\Debug\SistemaDeInventario.Login.resources
